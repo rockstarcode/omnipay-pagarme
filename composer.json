@@ -1,5 +1,5 @@
 {
-    "name": "descubraomundo/omnipay-pagarme",
+    "name": "rockstarcode/omnipay-pagarme",
     "description": "Pagarme driver for the Omnipay payment processing library",
     "keywords": [
         "gateway",
