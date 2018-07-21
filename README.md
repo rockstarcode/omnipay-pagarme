@@ -1,3 +1,20 @@
+### FORK
+Originally forked from https://github.com/descubraomundo/omnipay-pagarme
+But updated so its dependencies are compatible with Omnipay V3
+
+To install add this as a repository 
+```
+#composer.json
+ "repositories": [
+        ...
+        {
+            "type": "vcs",
+            "url": "https://github.com/rockstarcode/omnipay-pagarme.git"
+        }
+    ],
+```
+then require normally
+`composer require rockstarcode/omnipay-pagarme`
 # Omnipay: Pagar.Me
 
 **Pagar.Me gateway for the Omnipay PHP payment processing library**
