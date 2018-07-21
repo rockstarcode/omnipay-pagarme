@@ -12,10 +12,10 @@
     "homepage": "https://github.com/descubraomundo/omnipay-pagarme",
     "require": {
         "php": ">=5.3.0",
-        "omnipay/common": "~3.0"
+        "omnipay/common": "v3.0.2"
     },
     "require-dev": {
-        "omnipay/tests": "~3.0",
+        "omnipay/tests": "v3.0.2",
         "codeclimate/php-test-reporter": "^0.1.0@dev"
     },
     "license": "MIT",
